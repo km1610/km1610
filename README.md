@@ -87,13 +87,13 @@ I'm a B.Tech CSE student in my 3rd year, studying in Manipal University Jaipur. 
 
 ## HackerRank Badges
 
- <a href="https://www.hackerrank.com/kshitmalla">
+ <a href="https://www.hackerrank.com/kshitimalla">
     <img alt="HackerRank" src="https://img.shields.io/badge/Python-5 star-black?color=gold">
   </a>
-   <a href="https://www.hackerrank.com/kshitmalla">
+   <a href="https://www.hackerrank.com/kshitimalla">
     <img alt="HackerRank" src="https://img.shields.io/badge/Java-5 star-black?color=gold">
   </a>
-   <a href="https://www.hackerrank.com/kshitmalla">
+   <a href="https://www.hackerrank.com/kshitimalla">
     <img alt="HackerRank" src="https://img.shields.io/badge/Problem Solving-4 star-black?color=silver">
   </a>
 
