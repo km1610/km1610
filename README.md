@@ -82,7 +82,7 @@ I'm a B.Tech CSE student in my 3rd year, studying in Manipal University Jaipur. 
 <!--[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=kshitimalla)](<YOUR_LINK_HERE>)-->
 | Overall Coding Score | Total Problem Solved |
 | :----: | :----: |
-| 442 | 192 |
+| 460 | 200 |
 
 
 ## HackerRank Badges
