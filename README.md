@@ -27,7 +27,7 @@ I'm a B.Tech CSE student in my 3rd year, studying in Manipal University Jaipur. 
   
 🌱 I’m currently learning data science and machine learning to broaden my skill set.
 
-💬 Ask me about anything related to programming, web development, or my journey as a student in computer science.
+💬 Ask me about anything related to programming or my journey as a student in computer science.
 
 📫 How to reach me: [kshitimalla@gmail.com](mailto:kshitimalla@gmail.com)
 
