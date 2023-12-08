@@ -25,7 +25,7 @@ I'm a B.Tech CSE student in my 3rd year, studying in Manipal University Jaipur. 
 </p>
   
   
-🌱 I’m currently learning data science and machine learning to broaden my skill set.
+🌱 I’m currently learning data analytics, data science and machine learning to broaden my skill set.
 
 💬 Ask me about anything related to programming or my journey as a student in computer science.
 
