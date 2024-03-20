@@ -1,7 +1,7 @@
 <p align="center">
     <img width="200" src="https://avatars.githubusercontent.com/u/90254516?v=4">
 </p>
-	<h1 align='center'>  Hey There👋!</h1> 
+	<h1 align='center'>  Hey There👋</h1> 
 
 <p align="center">
 <a href="https://github.com/km1610">
