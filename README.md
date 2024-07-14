@@ -21,7 +21,7 @@
 </p>
 
   <p>
-I'm a B.Tech CSE student in my 3rd year, studying in Manipal University Jaipur. I'm a web developer, creating web applications with a focus on user-friendly and responsive designs. I'm also an enthusiast in competitive coding, constantly honing my problem-solving skills on platforms like LeetCode, GeeksforGeeks and HackerRank.
+I'm a B.Tech CSE student in my 4th year, studying in Manipal University Jaipur
 </p>
   
   
@@ -69,6 +69,10 @@ I'm a B.Tech CSE student in my 3rd year, studying in Manipal University Jaipur. 
 &emsp;
 <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+&emsp;
+<a href="https://graphql.org/">
+    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   </a>
 &emsp;
 </p>
