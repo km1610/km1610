@@ -75,6 +75,10 @@ I'm a B.Tech CSE student in my 4th year, studying in Manipal University Jaipur
     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   </a>
 &emsp;
+<a href="https://graphql.org/">
+    <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3C?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  </a>
+&emsp;
 </p>
 
 ## Leetcode Stats
