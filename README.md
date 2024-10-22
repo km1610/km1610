@@ -83,7 +83,7 @@ I'm a B.Tech CSE student in my 4th year, studying in Manipal University Jaipur
 
 ## Leetcode Stats
 
- [![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kshiti_16)](https://github.com/kshiti_16/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kshiti_16?theme=dark&font=Gudea&ext=heatmap)
 
  ## GeeksforGeeks Stats
 
