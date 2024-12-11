@@ -79,6 +79,10 @@ I'm a B.Tech CSE student in my 4th year, studying in Manipal University Jaipur
     <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-232F3C?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   </a>
 &emsp;
+<a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+&emsp;
 </p>
 
 ## Leetcode Stats
