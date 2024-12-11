@@ -113,7 +113,7 @@ I'm a B.Tech CSE student in my 4th year, studying in Manipal University Jaipur
 ## Projects
 Here are some of my favourite projects I've worked on:
 
-- **HealthGenie**: Implementation of Generative AI to deliver personalized notifications and newsletters based on user’s health information.
+- **Plan My Trip**: Implementation of Generative AI to deliver personalized travel itineraries user’s preferences.
   
 - **Expense Manager**: A user-centric Expense Management desktop application to simplify daily expense tracking and control for organized financial management.
   
